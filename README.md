@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android Development and exploring Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://znap.link/_your_techmate_](https://znap.link/_your_techmate_)
+- 👨‍💻 All of my projects are available at [_your_techmate_](https://znap.link/_your_techmate_)
 
 - 📝 Check my Android and Kotlin related posts on Instagram [_your_techmate_](https://www.instagram.com/_your_techmate_/)
 
