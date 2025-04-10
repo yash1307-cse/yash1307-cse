@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Chaudhari</h1>
-<h3 align="center">A self-taught & passionate android developer from India</h3>
+<h3 align="center">On a journey to thrive in DevOps.</h3>
 
-- 🌱 I’m currently learning **Android Development and exploring Kotlin**
-
-- 👨‍💻 All of my projects are available at [https://znap.link/_your_techmate_](https://znap.link/_your_techmate_)
+- 🌱 I’m currently learning and **Cloud** and **DevOps**
 
 - 📝 Check my Android and Kotlin related posts on Instagram [https://www.instagram.com/_your_techmate_/](https://www.instagram.com/_your_techmate_/)
 
-- 💬 Discuss with me about **Kotlin and Android**
+- 💬 Open to discuss with me **Cloud** and **DevOps**
 
 - 📫 How to reach me **yashchaudhari134@gmail.com**
 
