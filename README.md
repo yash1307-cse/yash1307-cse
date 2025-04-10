@@ -5,7 +5,7 @@
 
 - 📝 Check my Android and Kotlin related posts on Instagram [https://www.instagram.com/_your_techmate_/](https://www.instagram.com/_your_techmate_/)
 
-- 💬 Open to discuss with me **Cloud** and **DevOps**
+- 💬 Open to discuss about **Cloud** and **DevOps**
 
 - 📫 How to reach me **yashchaudhari134@gmail.com**
 
